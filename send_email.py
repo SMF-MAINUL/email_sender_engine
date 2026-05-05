@@ -9,7 +9,7 @@ smtp_server = "161.248.188.172" # আপনার হোস্টিংয়ের
 smtp_port = 465 # সাধারণত ৪৬৫ বা ৫৮৭ হয়
 
 # প্রাপকের লিস্ট
-receivers = ["mdmainul23122003@gmail.com", "mdanamuli699@gmail.com", "mdanamulislam01617963617@gmail.com"]
+receivers = ["mdmainul23122003@gmail.com", "mdanamuli699@gmail.com", "realtorsnewyork@gmail.com" ,"yourrealtorleanne@gmail.com", "hkandawire@gmail.com", "realestatebyjisely@gmail.com"]
 
 # HTML বডি (আপনার সেই এলিট প্রপোজালটি এখানে দিন)
 # html_content = """
